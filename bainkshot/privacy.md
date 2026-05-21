@@ -5,7 +5,7 @@ permalink: /bainkshot/privacy/
 
 # Privacy Policy — BainkShot
 
-_Last updated: 20 May 2026_
+_Last updated: 21 May 2026_
 
 BainkShot ("we", "us", "the app") is a financial forecasting and tax-prep tool for individuals and small businesses. This policy describes what we collect, what we do with it, and the controls you have.
 
@@ -54,8 +54,8 @@ When you delete your account, we delete your personal data within 30 days. Recei
 
 ## 6. Your controls
 
-- **Delete account** — contact us at [dtreg1@gmail.com](mailto:dtreg1@gmail.com) and we will fully delete your account and associated data within 30 days. An in-app delete-account flow is being added.
-- **Export** — your data export feature is available in-app under Settings → Export, in CSV and JSON formats.
+- **Delete account** — contact us at [dtreg1@gmail.com](mailto:dtreg1@gmail.com) and we will fully delete your account and associated data within 30 days.
+- **Export** — from the **Tax Center** in the web app, download a **Tax Folio** workbook (Excel `.xlsx`) containing your transactions, categorized rollups, and receipts list for the current tax year. Native mobile export is on the roadmap.
 - **Cancel subscription** — via iOS Settings → Apple ID → Subscriptions. Apple handles cancellation and prorating; we do not have access to your payment instrument.
 
 ## 7. Children
