@@ -1,0 +1,3 @@
+
+# Local Claude Code hookify rules (managed from projects-board meta-repo) — keep out of repo history.
+.claude/hookify.*.local.md
